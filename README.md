@@ -1,4 +1,4 @@
-# How Sending a DataTable to a SqlServer DataBase(to a Stored Procedure)?
+# How to Sending a DataTable to a SqlServer DataBase(to a Stored Procedure)?
 
 Using the following Steps:
 
